@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chat-pwa/static/css/main.7af6a75c.chunk.css",
+    "main.js": "/chat-pwa/static/js/main.ef325d31.chunk.js",
+    "main.js.map": "/chat-pwa/static/js/main.ef325d31.chunk.js.map",
+    "runtime-main.js": "/chat-pwa/static/js/runtime-main.891708fc.js",
+    "runtime-main.js.map": "/chat-pwa/static/js/runtime-main.891708fc.js.map",
+    "static/js/2.461450c0.chunk.js": "/chat-pwa/static/js/2.461450c0.chunk.js",
+    "static/js/2.461450c0.chunk.js.map": "/chat-pwa/static/js/2.461450c0.chunk.js.map",
+    "static/js/3.84624bd5.chunk.js": "/chat-pwa/static/js/3.84624bd5.chunk.js",
+    "static/js/3.84624bd5.chunk.js.map": "/chat-pwa/static/js/3.84624bd5.chunk.js.map",
+    "index.html": "/chat-pwa/index.html",
+    "static/css/main.7af6a75c.chunk.css.map": "/chat-pwa/static/css/main.7af6a75c.chunk.css.map",
+    "static/js/2.461450c0.chunk.js.LICENSE.txt": "/chat-pwa/static/js/2.461450c0.chunk.js.LICENSE.txt",
+    "static/media/buttonSend.669d8178.png": "/chat-pwa/static/media/buttonSend.669d8178.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.891708fc.js",
+    "static/js/2.461450c0.chunk.js",
+    "static/css/main.7af6a75c.chunk.css",
+    "static/js/main.ef325d31.chunk.js"
+  ]
+}
