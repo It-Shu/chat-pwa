@@ -4,7 +4,7 @@
   "theme_color": "#0d7dd6",
   "background_color": "#75bcf5",
   "display": "standalone",
-  "start_url": "https://it-shu.github.io/chat-pwa/",
+  "start_url": "./index.html",
   "icons": [
     {
       "src": "icons/icon-48x48.png",
